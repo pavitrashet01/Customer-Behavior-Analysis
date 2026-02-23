@@ -1,4 +1,4 @@
-# Customer-Behavior-Analysis
+# Customer-Behavior-Analysis (Python, SQL, Power BI)
 
 *	Project Summary
 This project analyzes customer shopping behavior data to understand purchasing patterns, revenue trends, and customer segments.
